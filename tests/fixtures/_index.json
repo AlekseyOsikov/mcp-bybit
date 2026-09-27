@@ -1,0 +1,13 @@
+{
+ "market__instruments-info__314a7cc9f9.json": "market/instruments-info?category=spot&symbol=ETHBTC",
+ "market__instruments-info__405618f1db.json": "market/instruments-info?category=spot&symbol=BTCUSDT",
+ "market__instruments-info__8b292b1de7.json": "market/instruments-info?category=spot&symbol=NOPEUSDT",
+ "market__instruments-info__a06fbbadae.json": "market/instruments-info?category=linear&symbol=NOPEUSDT",
+ "market__instruments-info__d673cb4e6a.json": "market/instruments-info?category=spot",
+ "market__kline__2e48911b2f.json": "market/kline?category=spot&symbol=BTCUSDT&interval=15&start=1704067200000&end=1704117599999&limit=1000",
+ "market__kline__699ca4c9b2.json": "market/kline?category=spot&symbol=ETHBTC&interval=D&start=1704067200000&end=1704326399999&limit=1000",
+ "market__kline__7fad27f23f.json": "market/kline?category=spot&symbol=BTCUSDT&interval=15&start=1704067200000&end=1704412799999&limit=1000",
+ "market__kline__c62f0cf160.json": "market/kline?category=spot&symbol=BTCUSDT&interval=15&start=1704067200000&end=1705017599999&limit=1000",
+ "market__kline__e0241c762e.json": "market/kline?category=spot&symbol=BTCUSDT&interval=D&start=1704067200000&end=1704931199999&limit=1000",
+ "market__tickers__405618f1db.json": "market/tickers?category=spot&symbol=BTCUSDT"
+}
